@@ -249,7 +249,7 @@ global poly_gamma_max_arr = []
 
 
 #Set number of EoSs
-global number_of_EoS = 100000
+global number_of_EoS = 100
 
 
 while k < number_of_EoS
